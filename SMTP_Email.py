@@ -13,7 +13,7 @@ from_addr = input('From:')
 password = input('Password:')
 to_addr = input('To:')
 smtp_server = input('SMTP server:')
-##16位授权码：qregdocdzzrobdic##
+##16位授权码：xxxxxxxxxx##
 
 import smtplib
 server = smtplib.SMTP_SSL(smtp_server, 465)
