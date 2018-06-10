@@ -1,0 +1,8 @@
+##异步IO##
+"同步IO模型的代码是无法实现异步IO模型的"
+"异步IO模型需要一个消息循环，在消息循环中，主线程不断重复'读取消息-处理消息'这一过程：
+loop = get_event_loop()
+while True:
+	event = loop.get_event()
+	process_event(event)
+	

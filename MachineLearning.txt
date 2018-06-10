@@ -1,0 +1,18 @@
+##Tensor Flow##
+"Machine Learning: Deep Neural Network"
+	"Image Recognition"
+	"Speech Recognitioin"
+	"Image Style Transfer"
+	"Luanguage Translation"
+	
+"Goal": "Estimating Future Sales"
+"Alternatives": "theano", "torch", "pytorch"
+"Wrapper": "Keras"
+"Tensors": "Multidimensional Rays Data"
+"Pros": "Powerful and flexible"
+"Cons": "High level learning curves"
+"GPU Acceleration": "TensorFlow only supports NVIDIA-brand GPUs", "GPUs can greatly decrease neural network training times for large neural networks"
+"Supervised Learning"
+	"Step 1: Choose the Model"
+	"Step 2: Training Phase"
+	"Step 3

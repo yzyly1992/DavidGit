@@ -1,0 +1,9 @@
+## Sacred versus Secular -- 神圣与世俗 ##
+"Sacred": "graveled courtyard, dedicatd to spiritual entities and activities", "Clearer and graveled", "Austere and Simple"
+"Secular": "Pond, tree, rock, pavillions, entertainment and aesthetic enjoyment", "contourer and planted", "Visually Rich and Complex"
+"Middle": "Combined aesthetic pleasure with a feeling of philosophical or reliious profundity"
+"Traditional Typology": "Natural Scenery: Represent nature with artificial ponds, hills, stones, and vegetation", "Dry Landscape: Suggest natuaral scenes with stones, gravel, and sand", "Tea Ceremony Garden: Landscape path leading to a teahouse"
+"Basic Principles": "Miniaturization", "Hide and Reveal arranging", "Asymmetry", "Borrowed Scenery"
+
+
+
